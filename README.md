@@ -33,6 +33,9 @@ This document contains notes, code snippets, and resources as I explore and comp
 
 *Common SQL Server queries and examples.*
 
+- [Simple Queries](00_SimpleQueries.sql)
+- [Single Table Queries](01_Single_Table_Queries.sql) - [Notes](notes/01_Single_Table_Queries_Notes.md)
+
 ### Advanced Topics
 
 *Transactions, indexing, performance tuning, etc.*
